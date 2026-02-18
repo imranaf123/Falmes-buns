@@ -107,6 +107,15 @@
       "category": "salads",
       "image": "images/caesar-salad.jpg",
       "popular": false
+    }, 
+     {
+      "id": 13,
+      "name": "Veggi Pizza",
+      "price": 11.99,
+      "description": "Fresh romaine lettuce with parmesan shavings, croutons, creamy Caesar dressing, and grilled chicken.",
+      "category": "pizza",
+      "image": "images/veggi-pizza.jpeg",
+      "popular": true
     }
   ],
   "categories": [
