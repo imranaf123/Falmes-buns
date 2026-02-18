@@ -1,0 +1,85 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "title": "Family Feast",
+      "subtitle": "Feed the Whole Crew",
+      "price": 39.99,
+      "originalPrice": 55.99,
+      "items": [
+        "4 Premium Burgers of your choice",
+        "2 Large Loaded Fries",
+        "12 Crispy Chicken Wings",
+        "4 Soft Drinks"
+      ],
+      "image": "images/deal-family.jpg",
+      "badge": "BEST VALUE",
+      "popular": true
+    },
+    {
+      "id": 2,
+      "title": "Date Night Combo",
+      "subtitle": "Perfect for Two",
+      "price": 24.99,
+      "originalPrice": 34.99,
+      "items": [
+        "2 Gourmet Burgers",
+        "1 Large Fries to Share",
+        "2 Milkshakes",
+        "1 Dessert of Choice"
+      ],
+      "image": "images/deal-couple.jpg",
+      "badge": "POPULAR",
+      "popular": true
+    },
+    {
+      "id": 3,
+      "title": "Party Platter",
+      "subtitle": "Game Day Special",
+      "price": 29.99,
+      "originalPrice": 42.99,
+      "items": [
+        "20 Chicken Wings (3 flavors)",
+        "Loaded Nachos Supreme",
+        "Golden Onion Rings",
+        "4 Dipping Sauces"
+      ],
+      "image": "images/deal-party.jpg",
+      "badge": "LIMITED",
+      "popular": false
+    },
+    {
+      "id": 4,
+      "title": "Executive Lunch",
+      "subtitle": "Quick & Delicious",
+      "price": 12.99,
+      "originalPrice": 17.99,
+      "items": [
+        "1 Classic Burger",
+        "Regular Fries",
+        "Soft Drink or Water",
+        "Fast Service Guarantee"
+      ],
+      "image": "images/deal-lunch.jpg",
+      "badge": "WEEKDAYS",
+      "popular": false
+    },
+    {
+      "id": 5,
+      "title": "Weekend BBQ Feast",
+      "subtitle": "Smoky & Savory",
+      "price": 34.99,
+      "originalPrice": 48.99,
+      "items": [
+        "Full Rack BBQ Ribs",
+        "8 Chicken Wings",
+        "Loaded Fries",
+        "Corn on the Cob",
+        "Coleslaw"
+      ],
+      "image": "images/deal-weekend.jpg",
+      "badge": "WEEKEND ONLY",
+      "popular": true
+    }
+  ]
+}
